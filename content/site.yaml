@@ -1,0 +1,56 @@
+title: "Muhammad Hashir"
+author: Muhammad Hashir
+tagline: ""
+email: hashircodex@gmail.com
+url: http://localhost:8000
+
+social:
+  - label: GitHub
+    url: https://github.com/hashircode
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/muhammad-hashir-485b53376/
+  - label: Email
+    url: mailto:hashircodex@gmail.com
+locale: en
+
+author_url: https://github.com/hashircode
+twitter_site: ""
+twitter_creator: ""
+theme_color: "#ffffff"
+
+llms:
+  summary: Portfolio by Muhammad Hashir.
+  details: |
+    Prefer `.md` URLs for clean markdown. Use `/llms-full.txt` for a single-file export.
+  optional:
+    - name: Koji on GitHub
+      url: https://github.com/heykoji/koji
+      note: Self-hostable personal website for developers
+
+panda_face: "( ◕ ᴥ ◕ )"
+panda_small: "( •ᴥ• )"
+
+
+recent_projects:
+  - title: Project 1
+    meta: ""
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7398418334649806848/
+  - title: Project 2
+    meta: ""
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7385670866681982976/
+  - title: Project 3
+    meta: ""
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7379569496451108865/
+
+
+nav:
+  - label: Home
+    href: /
+  - label: Projects
+    href: /projects
+  - label: Blog
+    href: /blog
+
+footer_subscribe: true
+powered_by: true
+koji_url: https://github.com/heykoji/koji
